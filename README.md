@@ -1,6 +1,9 @@
-<div align="center">AI-Powered E-Book Sharing Platform</div>
+<div align="center">
+**AI-Powered E-Book Sharing Platform**
+</div>
 
-     AI-Powered E-Book Sharing Platform
+
+     
 Hi 👋,  I'm Kasifa Farween
 A Full Stack Developer from India
 🌱 I’m currently learning Django (Backend Framework for python). React (JavaScripts Framework)
